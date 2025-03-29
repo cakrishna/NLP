@@ -343,6 +343,7 @@ pyrightconfig.json
 *.log
 *.sql
 *.SQLite
+*.csv
 
 
 # Installer logs #
@@ -357,3 +358,6 @@ bin/
 faiss_index/
 # *.pkl
 # *.faiss
+data/
+bert*/
+output/
